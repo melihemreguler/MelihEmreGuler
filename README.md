@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/gdscduzceuniversity/du/pull/2) in [gdscduzceuniversity/du](https://github.com/gdscduzceuniversity/du)
-2. 🎉 Merged PR [#3](https://github.com/gdscduzceuniversity/todo-app-1/pull/3) in [gdscduzceuniversity/todo-app-1](https://github.com/gdscduzceuniversity/todo-app-1)
-3. 💪 Opened PR [#3](https://github.com/gdscduzceuniversity/todo-app-1/pull/3) in [gdscduzceuniversity/todo-app-1](https://github.com/gdscduzceuniversity/todo-app-1)
-4. 🎉 Merged PR [#2](https://github.com/gdscduzceuniversity/todo-app-1/pull/2) in [gdscduzceuniversity/todo-app-1](https://github.com/gdscduzceuniversity/todo-app-1)
+1. ❗ Opened issue [#3](https://github.com/gdscduzceuniversity/du/issues/3) in [gdscduzceuniversity/du](https://github.com/gdscduzceuniversity/du)
+2. 💪 Opened PR [#2](https://github.com/gdscduzceuniversity/du/pull/2) in [gdscduzceuniversity/du](https://github.com/gdscduzceuniversity/du)
+3. 🎉 Merged PR [#3](https://github.com/gdscduzceuniversity/todo-app-1/pull/3) in [gdscduzceuniversity/todo-app-1](https://github.com/gdscduzceuniversity/todo-app-1)
+4. 💪 Opened PR [#3](https://github.com/gdscduzceuniversity/todo-app-1/pull/3) in [gdscduzceuniversity/todo-app-1](https://github.com/gdscduzceuniversity/todo-app-1)
 <!--END_SECTION:activity-->
 
 <p align="left">
