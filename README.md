@@ -40,7 +40,7 @@ Hi! I'm Melih Emre Güler. I am passionate about backend development, especially
 - [**urlshortener**](https://github.com/MelihEmreGuler/urlshortener)  
   <sub>A simple URL shortener built with Java.</sub>
 
-- [**donus-turkiye/backend**](https://github.com/MelihEmreGuler/donus-turkiye-backend)  
+- [**donus-turkiye/backend**](https://github.com/donus-turkiye/backend)  
   <sub>Backend project developed with Golang.</sub>
 
 - [**spring-web-mvc-react-captcha**](https://github.com/MelihEmreGuler/spring-web-mvc-react-captcha)  
