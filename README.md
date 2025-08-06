@@ -32,7 +32,7 @@ Hi! I'm Melih Emre Güler. I am passionate about backend development, especially
 ## Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/melihemreguler/melihemreguler.github.io/pull/1) in [melihemreguler/melihemreguler.github.io](https://github.com/melihemreguler/melihemreguler.github.io)
+1. 🎉 Merged PR [#22](https://github.com/melihemreguler/turknet-messaging-service/pull/22) in [melihemreguler/turknet-messaging-service](https://github.com/melihemreguler/turknet-messaging-service)
 <!--END_SECTION:activity-->
 
 ## Pinned Repositories
