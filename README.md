@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <em>Backend Developer | Go & Java Enthusiast | Open Source Contributor</em>
+  <em>Backend Developer | Java & Go Enthusiast | Open Source Contributor</em>
   <br/>
-  <strong><a href="https://github.com/PrimeModality" target="_blank">@PrimeModality</a></strong>
+  <strong><a href="https://github.com/TurkNet" target="_blank">@Turknet</a></strong>
 </p>
 
 ---
 
 # 💫 About Me:
-Hi! I'm Melih Emre Güler. I am passionate about backend development, especially with Go and Java. I enjoy contributing to open source projects. For more, visit my [website](https://melihemre.dev).
+Hi! I'm Melih Emre Güler. I am passionate about backend development, especially with Java and Go. I enjoy contributing to open source projects. For more, visit my [website](https://melihemre.dev).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melihemreguler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melihemreguler) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gulermelihemre) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MelihEmreGuler) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19666952) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/melihemreguler) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guler@melihemre.dev)
@@ -36,6 +36,9 @@ Hi! I'm Melih Emre Güler. I am passionate about backend development, especially
 <!--END_SECTION:activity-->
 
 ## Pinned Repositories
+
+- [**turknet-messaging-service**](https://github.com/melihemreguler/turknet-messaging-service)
+  <sub>Transformers Team Candidate Assessment Project<sub>
 
 - [**urlshortener**](https://github.com/MelihEmreGuler/urlshortener)  
   <sub>A simple URL shortener built with Java.</sub>
