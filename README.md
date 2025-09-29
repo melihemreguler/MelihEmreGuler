@@ -23,13 +23,15 @@ Hi! I'm Melih Emre Güler. I am passionate about backend development, especially
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=melihemreguler&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=melihemreguler&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=melihemreguler&theme=dark&hide_border=false&border_color=FFFFFF)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melihemreguler&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=dart)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=melihemreguler&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 ## Activities
+
+[![melihemreguler's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melihemreguler&theme=github-compact&area=true&hide_border=false&days=40&grid=true&radius=10&bg_color=141515)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#22](https://github.com/melihemreguler/turknet-messaging-service/pull/22) in [melihemreguler/turknet-messaging-service](https://github.com/melihemreguler/turknet-messaging-service)
