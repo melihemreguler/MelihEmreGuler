@@ -37,7 +37,7 @@ Hi! I'm Melih Emre Güler. I am passionate about backend development, especially
 
 ## Pinned Repositories
 
-- [**turknet-messaging-service**](https://github.com/melihemreguler/turknet-messaging-service)
+- [**turknet-messaging-service**](https://github.com/melihemreguler/turknet-messaging-service)  
   <sub>Transformers Team Candidate Assessment Project<sub>
 
 - [**urlshortener**](https://github.com/MelihEmreGuler/urlshortener)  
